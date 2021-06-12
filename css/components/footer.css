@@ -1,0 +1,27 @@
+.footer {
+  background-color: #2C2B2B;
+  padding-top: 60px;
+  padding-bottom: 35px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.social-links {
+  display: flex;
+  width: 120px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #1EDD88;
+  font-size: 24px;
+}
+
+.footer-message {
+  color: #6B6C6C;
+/*  font-weight: 100;
+*/  font-size: 13px;
+  font-family: Open Sans;
+}
